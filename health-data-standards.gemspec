@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'mongo', '>= 2.10.5', '< 3.0.0'
   s.add_dependency 'highline', "~> 1.7.0"
 
-  s.add_dependency 'rubyzip', '~> 1.2.1'
+  s.add_dependency 'rubyzip', '~> 1.3'
   s.add_dependency 'zip-zip', '~> 0.3'
 
   s.add_dependency 'log4r', '~> 1.1.10'
